@@ -1,0 +1,9 @@
+# Fichiers caches Python
+__pycache__/
+*.pyc
+
+# Dossier des donnees CIFAR-10 
+data/
+
+# Fichiers systemes Mac
+.DS_Store
